@@ -18,16 +18,31 @@ This is obviously just a talk for fun, things will evolve much more until the mo
 
 ## Where and when
 
-1. [Full Stack Fest 2016, Barcelona](https://2016.fullstackfest.com) - September 9, 2016
-2. [Web Camp 2016, Zagreb](https://2016.webcampzg.org) - October 28, 2016
-
-## Videos
-
 ### Full Stack Fest 2016, Barcelona
+
+#### Location and date
+
+Full Stack Fest 2016, Barcelona on September 9, 2016.
+
+#### Slides
+
+[![Slides from Full Stack Fest 2016, Barcelona](https://speakerd.s3.amazonaws.com/presentations/55b6bc0cb30440b3b68b3cc52f578760/slide_0.jpg)](https://speakerdeck.com/slobodan/how-to-build-a-website-that-will-eventually-work-on-mars)
+
+#### Video
 
 [![Video from Full Stack Fest 2016, Barcelona](http://img.youtube.com/vi/7rlEidtXlZg/0.jpg)](https://youtu.be/7rlEidtXlZg)
 
 ### Web Camp 2016, Zagreb
+
+#### Location and date
+
+Web Camp 2016, Zagreb on October 28, 2016.
+
+#### Slides
+
+[![Slides from Web Camp 2016, Zagreb](https://speakerd.s3.amazonaws.com/presentations/b9ab52a22ef44dbc867971918c5b888d/slide_0.jpg)](https://speakerdeck.com/slobodan/how-to-build-a-website-that-will-eventually-work-on-mars-v1-dot-1-0-webcamp-zagreb-2016)
+
+#### Video
 
 [![Video from Web Camp 2016, Zagreb](http://img.youtube.com/vi/9xxmV4q6JEQ/0.jpg)](https://youtu.be/9xxmV4q6JEQ)
 
