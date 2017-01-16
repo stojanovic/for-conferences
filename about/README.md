@@ -8,8 +8,9 @@
 
 **Work:** CTO of Cloud Horizon and JS Belgrade meetup organizer
 
-## Links
+## Links and contact
 
+- [Email](mailto:mail@slobodan.me)
 - [Github (@stojanovic)](https://github.com/stojanovic)
 - [Twitter (@slobodan_)](http://twitter.com/slobodan_)
 - [Linkedin](https://rs.linkedin.com/in/sstojanovic)
