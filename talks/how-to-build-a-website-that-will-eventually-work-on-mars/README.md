@@ -49,3 +49,4 @@ Web Camp 2016, Zagreb on October 28, 2016.
 ## Other links
 
 - [Papercall.io page](https://www.papercall.io/speakers/slobodan/speaker_talks/3663-how-to-build-a-website-that-will-eventually-work-on-mars)
+- [JoindIn feedback from Zagreb](https://joind.in/event/webcamp-zagreb-2016/how-to-build-a-website-that-will-eventually-work-on-mars)
