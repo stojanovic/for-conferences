@@ -8,6 +8,7 @@
 
 ## New ideas
 
+- [The Hitchhiker's Guide to the Serverless Galaxy](https://www.papercall.io/speakers/slobodan/speaker_talks/23383-the-hitchhiker-s-guide-to-the-serverless-galaxy)
 - [Server(less) side rendering](https://www.papercall.io/speakers/slobodan/speaker_talks/14684-server-less-side-rendering)
 
 ## Topics from various meetups
@@ -24,10 +25,11 @@
 
 ## Upcoming events
 
-- Voxxed Days Bristol (March 2, 2017) - talk: [How to build a website that will (eventually) work on Mars](https://voxxeddays.com/bristol/2017/01/31/how-to-build-a-website-that-will-eventually-work-on-mars/)
+- [Code Europe](https://www.codeeurope.pl/en), Poland (May 23 and 25, Poland)
 
 ## Past conferences and meetups
 
+- Voxxed Days Bristol (March 2, 2017) - talk: [How to build a website that will (eventually) work on Mars](https://voxxeddays.com/bristol/2017/01/31/how-to-build-a-website-that-will-eventually-work-on-mars/)
 - HolyJS 2016, Moscow (December 9, 2016) - talk: [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Serverless Chatbots](talks/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-serverless-chatbots) 
 - Web Camp 2016, Zagreb (October 28, 2016) - talk: [How to build a website that will (eventually) work on Mars](talks/how-to-build-a-website-that-will-eventually-work-on-mars)
 - Full Stack Fest 2016, Barcelona (September 9, 2016) - talk: [How to build a website that will (eventually) work on Mars](talks/how-to-build-a-website-that-will-eventually-work-on-mars)
