@@ -10,6 +10,7 @@
 
 - [The Hitchhiker's Guide to the Serverless Galaxy](https://www.papercall.io/speakers/slobodan/speaker_talks/23383-the-hitchhiker-s-guide-to-the-serverless-galaxy)
 - [Server(less) side rendering](https://www.papercall.io/speakers/slobodan/speaker_talks/14684-server-less-side-rendering)
+- The Hitchhiker's Guide to the Serverless Galaxy
 
 ## Topics from various meetups
 
