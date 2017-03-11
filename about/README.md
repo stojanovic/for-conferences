@@ -20,11 +20,10 @@
 
 I am Slobodan Stojanović, programmer and entrepreneur from Belgrade, Serbia.
 
-For past 5 years I work as a CTO and a partner at Cloud Horizon, small Canadian-Serbian company that builds a web apps for a lot of interesting startups mostly from North America (ie. we are building some cool offline web apps for Lufa Farms to allow them to track bad bugs at their rooftop greenhouses in Montreal so they can release some good bugs, like lady bugs, to eat them because they don't use pesticides).
+For past 5 years I work as a CTO and a partner at Cloud Horizon, small Canadian-Serbian company that builds a web apps for a lot of interesting startups mostly from North America (ie. we are building some cool offline web apps to allow one of our clients to track bad bugs at their rooftop greenhouses and release some good bugs to eat them, because they don't use pesticides).
+I am also one of the organizers of JS Belgrade meetups.
 
-I also organize JS meetups and community (JS Belgrade) in Belgrade, Serbia for 2 years, we have more than 1000 members and we organized more than 20 regular meetups, a lot of Coffee.js casual meetups, 7 workshops, etc. We also had a few great guests, such as Substack, Martin Kleppe, Stephan Bönnemann, Gojko Adžić, Igor Terzić and more.
-
-I have a lot of experience with JavaScript and I love to play with offline webapps, chatbots, serverless architectures and new things available in both browser and NodeJS.
+I love JavaScript and open source, and I love to play with offline webapps, chatbots, serverless architectures and new things available in both browser and NodeJS.
 
 I spoke at:
 - WebCamp Ljubljana 2016 - "Offline webapps"
