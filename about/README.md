@@ -30,6 +30,7 @@ I spoke at:
 - Full Stack Fest Barcelona 2016 - "How to build a website that will (eventually) work on Mars"
 - WebCamp Zagreb 2016 - "How to build a website that will (eventually) work on Mars"
 - HolyJS Moscow 2016 - "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Serverless Chatbots"
+- Voxxed Days Bristol 2017 - "How to build a website that will (eventually) work on Mars"
 - Multiple meetups with a few different topics
 
 ## Photos
