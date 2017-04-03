@@ -26,6 +26,8 @@
 ## Upcoming events
 
 - [Code Europe](https://www.codeeurope.pl/en), Poland (May 23 and 25, Poland)
+- [HolyJS](https://holyjs-piter.ru/en/), St. Petersburg (June 2 and 3, Russia)
+- [AmsterdamJS](https://amsterdamjs.com), Amsterdam (June 8, Netherlands)
 
 ## Past conferences and meetups
 
