@@ -16,6 +16,10 @@
 - [Linkedin](https://rs.linkedin.com/in/sstojanovic)
 - [Website](http://slobodan.me)
 
+## One line bio
+
+Developer, mostly focused on JavaScript. CTO @ Cloud Horizon and JS Belgrade meetup organizer. Loves open source.
+
 ## Bio
 
 I am Slobodan Stojanović, programmer and entrepreneur from Belgrade, Serbia.
